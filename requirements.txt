@@ -1,0 +1,8 @@
+# Social Computing Notebooks - Requirements
+notebook
+requests
+beautifulsoup4
+selenium
+matplotlib
+numpy
+pandas
