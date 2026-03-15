@@ -1,107 +1,311 @@
 {
     "https://www.immoscout24.ch/rent/4002932846": {
-        "Schule Riesbach (Seefeld)": "4 min.",
-        "TopPharm Apotheke H\u00c3\u00b6schgasse": "4 min.",
-        "Coop": "4 min.",
-        "Botanischer Garten": "< 1 min."
+        "School": [
+            "Schule Riesbach (Seefeld)",
+            "4 min."
+        ],
+        "Pharmacy": [
+            "TopPharm Apotheke H\u00c3\u00b6schgasse",
+            "4 min."
+        ],
+        "Supermarket": [
+            "Coop",
+            "4 min."
+        ],
+        "Public Transport": [
+            "Botanischer Garten",
+            "< 1 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002448603": {
-        "Coop Vitality Z\u00c3\u00bcrich Stauffacher": "5 min.",
-        "Eisgasse": "4 min.",
-        "Coop": "4 min.",
-        "Stauffacher": "5 min."
+        "Pharmacy": [
+            "Coop Vitality Z\u00c3\u00bcrich Stauffacher",
+            "5 min."
+        ],
+        "School": [
+            "Eisgasse",
+            "4 min."
+        ],
+        "Supermarket": [
+            "Coop",
+            "4 min."
+        ],
+        "Public Transport": [
+            "Stauffacher",
+            "5 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002800892": {
-        "Brunau Stiftung": "6 min.",
-        "Migros": "3 min.",
-        "Apotheke Drogerie Brunaupark": "3 min.",
-        "Saalsporthalle": "2 min."
+        "School": [
+            "Brunau Stiftung",
+            "6 min."
+        ],
+        "Supermarket": [
+            "Migros",
+            "3 min."
+        ],
+        "Pharmacy": [
+            "Apotheke Drogerie Brunaupark",
+            "3 min."
+        ],
+        "Public Transport": [
+            "Saalsporthalle",
+            "2 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002598122": {
-        "BENU Z\u00c3\u00bcrich Kreuz": "3 min.",
-        "Hull's School": "4 min.",
-        "Migros": "3 min.",
-        "Opernhaus": "3 min."
+        "Pharmacy": [
+            "BENU Z\u00c3\u00bcrich Kreuz",
+            "3 min."
+        ],
+        "School": [
+            "Hull's School",
+            "4 min."
+        ],
+        "Supermarket": [
+            "Migros",
+            "3 min."
+        ],
+        "Public Transport": [
+            "Opernhaus",
+            "3 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002640544": {
-        "Schule M\u00c3\u00bcnchhalde": "4 min.",
-        "Pill Apotheke Fr\u00c3\u00b6hlichstrasse": "4 min.",
-        "Coop": "2 min.",
-        "Wildbachstrasse": "2 min."
+        "School": [
+            "Schule M\u00c3\u00bcnchhalde",
+            "4 min."
+        ],
+        "Pharmacy": [
+            "Pill Apotheke Fr\u00c3\u00b6hlichstrasse",
+            "4 min."
+        ],
+        "Supermarket": [
+            "Coop",
+            "2 min."
+        ],
+        "Public Transport": [
+            "Wildbachstrasse",
+            "2 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4003006079": {
-        "Anet Hofer Rolfing": "3 min.",
-        "J\u00c3\u00bcdische Schule Knaben": "5 min.",
-        "LeShuk": "6 min.",
-        "Waffenplatzstrasse": "1 min."
+        "Pharmacy": [
+            "Anet Hofer Rolfing",
+            "3 min."
+        ],
+        "School": [
+            "J\u00c3\u00bcdische Schule Knaben",
+            "5 min."
+        ],
+        "Supermarket": [
+            "LeShuk",
+            "6 min."
+        ],
+        "Public Transport": [
+            "Waffenplatzstrasse",
+            "1 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002752646": {
-        "Schule Looren": "8 min.",
-        "TopPharm Apotheke Witikon": "12 min.",
-        "VOI Migros-Partner Z\u00c3\u00bcrich - Witikon": "8 min.",
-        "Zweiackerstrasse": "2 min."
+        "School": [
+            "Schule Looren",
+            "8 min."
+        ],
+        "Pharmacy": [
+            "TopPharm Apotheke Witikon",
+            "12 min."
+        ],
+        "Supermarket": [
+            "VOI Migros-Partner Z\u00c3\u00bcrich - Witikon",
+            "8 min."
+        ],
+        "Public Transport": [
+            "Zweiackerstrasse",
+            "2 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002800891": {
-        "Brunau Stiftung": "6 min.",
-        "Migros": "3 min.",
-        "Apotheke Drogerie Brunaupark": "3 min.",
-        "Saalsporthalle": "2 min."
+        "School": [
+            "Brunau Stiftung",
+            "6 min."
+        ],
+        "Supermarket": [
+            "Migros",
+            "3 min."
+        ],
+        "Pharmacy": [
+            "Apotheke Drogerie Brunaupark",
+            "3 min."
+        ],
+        "Public Transport": [
+            "Saalsporthalle",
+            "2 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002752586": {
-        "Schule Looren": "8 min.",
-        "TopPharm Apotheke Witikon": "12 min.",
-        "VOI Migros-Partner Z\u00c3\u00bcrich - Witikon": "8 min.",
-        "Zweiackerstrasse": "2 min."
+        "School": [
+            "Schule Looren",
+            "8 min."
+        ],
+        "Pharmacy": [
+            "TopPharm Apotheke Witikon",
+            "12 min."
+        ],
+        "Supermarket": [
+            "VOI Migros-Partner Z\u00c3\u00bcrich - Witikon",
+            "8 min."
+        ],
+        "Public Transport": [
+            "Zweiackerstrasse",
+            "2 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002876395": {
-        "Schule Schanzengraben": "6 min.",
-        "St. Peter Apotheke": "2 min.",
-        "Uniquee Foods & Cosmetics": "3 min.",
-        "Paradeplatz": "3 min."
+        "School": [
+            "Schule Schanzengraben",
+            "6 min."
+        ],
+        "Pharmacy": [
+            "St. Peter Apotheke",
+            "2 min."
+        ],
+        "Supermarket": [
+            "Uniquee Foods & Cosmetics",
+            "3 min."
+        ],
+        "Public Transport": [
+            "Paradeplatz",
+            "3 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002994325": {
-        "LernCenter Z\u00c3\u00bcrich": "4 min.",
-        "BENU Z\u00c3\u00bcrich Carmen": "2 min.",
-        "Coop": "1 min.",
-        "H\u00c3\u00b6lderlinstrasse": "2 min."
+        "School": [
+            "LernCenter Z\u00c3\u00bcrich",
+            "4 min."
+        ],
+        "Pharmacy": [
+            "BENU Z\u00c3\u00bcrich Carmen",
+            "2 min."
+        ],
+        "Supermarket": [
+            "Coop",
+            "1 min."
+        ],
+        "Public Transport": [
+            "H\u00c3\u00b6lderlinstrasse",
+            "2 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002953792": {
-        "Apotheke Paradeplatz": "5 min.",
-        "Schule Hirschengraben": "6 min.",
-        "Vitus": "1 min.",
-        "Bellevue": "6 min."
+        "Pharmacy": [
+            "Apotheke Paradeplatz",
+            "5 min."
+        ],
+        "School": [
+            "Schule Hirschengraben",
+            "6 min."
+        ],
+        "Supermarket": [
+            "Vitus",
+            "1 min."
+        ],
+        "Public Transport": [
+            "Bellevue",
+            "6 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002680231": {
-        "TopPharm": "4 min.",
-        "Schule Limmat": "3 min.",
-        "Coop": "2 min.",
-        "Z\u00c3\u00bcrich Bus Station": "4 min."
+        "Pharmacy": [
+            "TopPharm",
+            "4 min."
+        ],
+        "School": [
+            "Schule Limmat",
+            "3 min."
+        ],
+        "Supermarket": [
+            "Coop",
+            "2 min."
+        ],
+        "Public Transport": [
+            "Z\u00c3\u00bcrich Bus Station",
+            "4 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002998210": {
-        "Schule Gabler": "7 min.",
-        "LeShuk": "3 min.",
-        "Anet Hofer Rolfing": "6 min.",
-        "H\u00c3\u00bcgelstrasse": "2 min."
+        "School": [
+            "Schule Gabler",
+            "7 min."
+        ],
+        "Supermarket": [
+            "LeShuk",
+            "3 min."
+        ],
+        "Pharmacy": [
+            "Anet Hofer Rolfing",
+            "6 min."
+        ],
+        "Public Transport": [
+            "H\u00c3\u00bcgelstrasse",
+            "2 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002947505": {
-        "Schule Looren": "8 min.",
-        "TopPharm Apotheke Witikon": "12 min.",
-        "VOI Migros-Partner Z\u00c3\u00bcrich - Witikon": "8 min.",
-        "Zweiackerstrasse": "2 min."
+        "School": [
+            "Schule Looren",
+            "8 min."
+        ],
+        "Pharmacy": [
+            "TopPharm Apotheke Witikon",
+            "12 min."
+        ],
+        "Supermarket": [
+            "VOI Migros-Partner Z\u00c3\u00bcrich - Witikon",
+            "8 min."
+        ],
+        "Public Transport": [
+            "Zweiackerstrasse",
+            "2 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002940165": {},
     "https://www.immoscout24.ch/rent/4002911938": {
-        "Dropa Hottingen": "4 min.",
-        "Jugendmusikschule Z\u00c3\u00bcrich": "4 min.",
-        "Spar": "5 min.",
-        "Hottingerplatz": "3 min."
+        "Pharmacy": [
+            "Dropa Hottingen",
+            "4 min."
+        ],
+        "School": [
+            "Jugendmusikschule Z\u00c3\u00bcrich",
+            "4 min."
+        ],
+        "Supermarket": [
+            "Spar",
+            "5 min."
+        ],
+        "Public Transport": [
+            "Hottingerplatz",
+            "3 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002861802": {},
     "https://www.immoscout24.ch/rent/4003006092": {
-        "Coop": "2 min.",
-        "Primarschule Oescher": "5 min.",
-        "Apotheke Zollikon": "6 min.",
-        "Beugi": "3 min."
+        "Supermarket": [
+            "Coop",
+            "2 min."
+        ],
+        "School": [
+            "Primarschule Oescher",
+            "5 min."
+        ],
+        "Pharmacy": [
+            "Apotheke Zollikon",
+            "6 min."
+        ],
+        "Public Transport": [
+            "Beugi",
+            "3 min."
+        ]
     },
     "https://www.immoscout24.ch/rent/4002865248": {}
 }
