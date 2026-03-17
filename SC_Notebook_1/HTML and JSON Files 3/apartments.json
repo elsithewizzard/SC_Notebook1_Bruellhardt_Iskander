@@ -1,11 +1,30 @@
 {
+    "https://www.immoscout24.ch/rent/4003008330": {},
+    "https://www.immoscout24.ch/rent/4002727441": {
+        "Pharmacy": [
+            "Health Guard",
+            "3 min."
+        ],
+        "School": [
+            "Sprungbrett Montessori-Schule",
+            "2 min."
+        ],
+        "Supermarket": [
+            "Coop Supermarkt ZÃ¼rich Kreuzplatz",
+            "4 min."
+        ],
+        "Public Transport": [
+            "RÃ¶merhof",
+            "3 min."
+        ]
+    },
     "https://www.immoscout24.ch/rent/4002932846": {
         "School": [
             "Schule Riesbach (Seefeld)",
             "4 min."
         ],
         "Pharmacy": [
-            "TopPharm Apotheke H\u00c3\u00b6schgasse",
+            "TopPharm Apotheke HÃ¶schgasse",
             "4 min."
         ],
         "Supermarket": [
@@ -19,7 +38,7 @@
     },
     "https://www.immoscout24.ch/rent/4002448603": {
         "Pharmacy": [
-            "Coop Vitality Z\u00c3\u00bcrich Stauffacher",
+            "Coop Vitality ZÃ¼rich Stauffacher",
             "5 min."
         ],
         "School": [
@@ -33,6 +52,114 @@
         "Public Transport": [
             "Stauffacher",
             "5 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4003012350": {
+        "School": [
+            "SonderpÃ¤dagogische Tagesschule Toblerstrasse",
+            "8 min."
+        ],
+        "Pharmacy": [
+            "Neuroflex",
+            "7 min."
+        ],
+        "Supermarket": [
+            "Spyri Corner Shop",
+            "6 min."
+        ],
+        "Public Transport": [
+            "Spyristeig",
+            "4 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4003010032": {
+        "Supermarket": [
+            "VOI Migros-Partner ZÃ¼rich - Witikon",
+            "12 min."
+        ],
+        "School": [
+            "Schule Langmatt",
+            "11 min."
+        ],
+        "Pharmacy": [
+            "TopPharm Apotheke Witikon",
+            "11 min."
+        ],
+        "Public Transport": [
+            "Wiesliacher",
+            "1 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4003005676": {
+        "Pharmacy": [
+            "Medbase Apotheke",
+            "5 min."
+        ],
+        "School": [
+            "KV Business School",
+            "5 min."
+        ],
+        "Supermarket": [
+            "Migros Daily",
+            "< 1 min."
+        ],
+        "Public Transport": [
+            "ZÃ¼rich Bus Station",
+            "3 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4002906954": {
+        "School": [
+            "Schulhaus NeubÃ¼hl",
+            "5 min."
+        ],
+        "Supermarket": [
+            "VOI",
+            "2 min."
+        ],
+        "Pharmacy": [
+            "Amavita",
+            "6 min."
+        ],
+        "Public Transport": [
+            "Dangelstrasse",
+            "2 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4003009738": {
+        "School": [
+            "Schule Im Lee",
+            "6 min."
+        ],
+        "Supermarket": [
+            "VOI",
+            "8 min."
+        ],
+        "Pharmacy": [
+            "Amavita",
+            "8 min."
+        ],
+        "Public Transport": [
+            "Widmerstrasse",
+            "4 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4002972479": {
+        "Pharmacy": [
+            "Osteopathie & Craniosacral Therapie ZÃ¼rich HB I Erwachsene",
+            "4 min."
+        ],
+        "Supermarket": [
+            "Coop",
+            "7 min."
+        ],
+        "School": [
+            "Freie Katholische Schule Sumatra",
+            "3 min."
+        ],
+        "Public Transport": [
+            "Sonneggstrasse",
+            "2 min."
         ]
     },
     "https://www.immoscout24.ch/rent/4002800892": {
@@ -53,9 +180,27 @@
             "2 min."
         ]
     },
+    "https://www.immoscout24.ch/rent/4003009306": {
+        "Pharmacy": [
+            "TopPharm",
+            "1 min."
+        ],
+        "Supermarket": [
+            "ALIMA Supermarkt ZÃ¼rich",
+            "< 1 min."
+        ],
+        "School": [
+            "Talmud Toire Chajei Oilom",
+            "2 min."
+        ],
+        "Public Transport": [
+            "Manesseplatz",
+            "1 min."
+        ]
+    },
     "https://www.immoscout24.ch/rent/4002598122": {
         "Pharmacy": [
-            "BENU Z\u00c3\u00bcrich Kreuz",
+            "BENU ZÃ¼rich Kreuz",
             "3 min."
         ],
         "School": [
@@ -73,11 +218,11 @@
     },
     "https://www.immoscout24.ch/rent/4002640544": {
         "School": [
-            "Schule M\u00c3\u00bcnchhalde",
+            "Schule MÃ¼nchhalde",
             "4 min."
         ],
         "Pharmacy": [
-            "Pill Apotheke Fr\u00c3\u00b6hlichstrasse",
+            "Pill Apotheke FrÃ¶hlichstrasse",
             "4 min."
         ],
         "Supermarket": [
@@ -95,7 +240,7 @@
             "3 min."
         ],
         "School": [
-            "J\u00c3\u00bcdische Schule Knaben",
+            "JÃ¼dische Schule Knaben",
             "5 min."
         ],
         "Supermarket": [
@@ -105,6 +250,24 @@
         "Public Transport": [
             "Waffenplatzstrasse",
             "1 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4002881940": {
+        "Supermarket": [
+            "Denner",
+            "2 min."
+        ],
+        "School": [
+            "Fachschule Viventa",
+            "2 min."
+        ],
+        "Pharmacy": [
+            "Amavita",
+            "2 min."
+        ],
+        "Public Transport": [
+            "Kernstrasse",
+            "3 min."
         ]
     },
     "https://www.immoscout24.ch/rent/4002752646": {
@@ -117,12 +280,48 @@
             "12 min."
         ],
         "Supermarket": [
-            "VOI Migros-Partner Z\u00c3\u00bcrich - Witikon",
+            "VOI Migros-Partner ZÃ¼rich - Witikon",
             "8 min."
         ],
         "Public Transport": [
             "Zweiackerstrasse",
             "2 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4002711157": {
+        "School": [
+            "Schule Looren",
+            "8 min."
+        ],
+        "Pharmacy": [
+            "TopPharm Apotheke Witikon",
+            "12 min."
+        ],
+        "Supermarket": [
+            "VOI Migros-Partner ZÃ¼rich - Witikon",
+            "8 min."
+        ],
+        "Public Transport": [
+            "Zweiackerstrasse",
+            "2 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4003010050": {
+        "School": [
+            "Schule Entlisberg",
+            "7 min."
+        ],
+        "Supermarket": [
+            "Aldi",
+            "3 min."
+        ],
+        "Pharmacy": [
+            "Amavita",
+            "4 min."
+        ],
+        "Public Transport": [
+            "Butzenstrasse",
+            "3 min."
         ]
     },
     "https://www.immoscout24.ch/rent/4002800891": {
@@ -143,6 +342,42 @@
             "2 min."
         ]
     },
+    "https://www.immoscout24.ch/rent/4003001886": {
+        "School": [
+            "Schule Gabler",
+            "6 min."
+        ],
+        "Supermarket": [
+            "LeShuk",
+            "2 min."
+        ],
+        "Pharmacy": [
+            "Anet Hofer Rolfing",
+            "5 min."
+        ],
+        "Public Transport": [
+            "HÃ¼gelstrasse",
+            "1 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4002997277": {
+        "Pharmacy": [
+            "APODRO Apotheke",
+            "2 min."
+        ],
+        "School": [
+            "HeilpÃ¤dagogische Schule Gotthelf",
+            "< 1 min."
+        ],
+        "Supermarket": [
+            "Barkat Cash and Carry",
+            "2 min."
+        ],
+        "Public Transport": [
+            "Hertersteg",
+            "4 min."
+        ]
+    },
     "https://www.immoscout24.ch/rent/4002752586": {
         "School": [
             "Schule Looren",
@@ -153,7 +388,7 @@
             "12 min."
         ],
         "Supermarket": [
-            "VOI Migros-Partner Z\u00c3\u00bcrich - Witikon",
+            "VOI Migros-Partner ZÃ¼rich - Witikon",
             "8 min."
         ],
         "Public Transport": [
@@ -179,13 +414,49 @@
             "3 min."
         ]
     },
+    "https://www.immoscout24.ch/rent/4002940663": {
+        "School": [
+            "Selbsthilfe ZÃ¼rich",
+            "5 min."
+        ],
+        "Pharmacy": [
+            "BENU ZÃ¼rich Carmen",
+            "5 min."
+        ],
+        "Supermarket": [
+            "mio by migrolino",
+            "4 min."
+        ],
+        "Public Transport": [
+            "HÃ¶lderlinstrasse",
+            "3 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4002991754": {
+        "Pharmacy": [
+            "Aprioris",
+            "3 min."
+        ],
+        "School": [
+            "Schule MÃ¼hlebach",
+            "3 min."
+        ],
+        "Supermarket": [
+            "Coop Supermarkt Brotgasse",
+            "5 min."
+        ],
+        "Public Transport": [
+            "Kreuzstrasse",
+            "6 min."
+        ]
+    },
     "https://www.immoscout24.ch/rent/4002994325": {
         "School": [
-            "LernCenter Z\u00c3\u00bcrich",
+            "LernCenter ZÃ¼rich",
             "4 min."
         ],
         "Pharmacy": [
-            "BENU Z\u00c3\u00bcrich Carmen",
+            "BENU ZÃ¼rich Carmen",
             "2 min."
         ],
         "Supermarket": [
@@ -193,8 +464,62 @@
             "1 min."
         ],
         "Public Transport": [
-            "H\u00c3\u00b6lderlinstrasse",
+            "HÃ¶lderlinstrasse",
             "2 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4003011670": {
+        "School": [
+            "Freie Privatschule ZÃ¼rich",
+            "7 min."
+        ],
+        "Supermarket": [
+            "Migros",
+            "15 min."
+        ],
+        "Pharmacy": [
+            "Apotheke Zollikon",
+            "13 min."
+        ],
+        "Public Transport": [
+            "Felbenstrasse",
+            "4 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4002995314": {
+        "School": [
+            "JÃ¼dische Schule NOAM",
+            "3 min."
+        ],
+        "Supermarket": [
+            "LeShuk",
+            "4 min."
+        ],
+        "Pharmacy": [
+            "Anet Hofer Rolfing",
+            "6 min."
+        ],
+        "Public Transport": [
+            "Museum Rietberg",
+            "3 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4002992658": {
+        "School": [
+            "SonderpÃ¤dagogische Tagesschule Toblerstrasse",
+            "5 min."
+        ],
+        "Pharmacy": [
+            "Toblerplatz-Drogerie Haefliger",
+            "5 min."
+        ],
+        "Supermarket": [
+            "Migros",
+            "5 min."
+        ],
+        "Public Transport": [
+            "Toblerplatz",
+            "5 min."
         ]
     },
     "https://www.immoscout24.ch/rent/4002953792": {
@@ -215,6 +540,24 @@
             "6 min."
         ]
     },
+    "https://www.immoscout24.ch/rent/4003013685": {
+        "School": [
+            "Schule fÃ¼r KÃ¶rper- und Mehrfachbehinderte",
+            "6 min."
+        ],
+        "Pharmacy": [
+            "Swiss Surgery",
+            "8 min."
+        ],
+        "Supermarket": [
+            "LeShuk",
+            "10 min."
+        ],
+        "Public Transport": [
+            "Thujastrasse",
+            "3 min."
+        ]
+    },
     "https://www.immoscout24.ch/rent/4002680231": {
         "Pharmacy": [
             "TopPharm",
@@ -229,7 +572,115 @@
             "2 min."
         ],
         "Public Transport": [
-            "Z\u00c3\u00bcrich Bus Station",
+            "ZÃ¼rich Bus Station",
+            "4 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4002996741": {
+        "School": [
+            "BERIT-EXBIT-Schule",
+            "1 min."
+        ],
+        "Pharmacy": [
+            "Paracelsus-Apotheke",
+            "2 min."
+        ],
+        "Supermarket": [
+            "Sala-Thai",
+            "2 min."
+        ],
+        "Public Transport": [
+            "Kanonengasse",
+            "2 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4002924457": {
+        "School": [
+            "Schule Wollishofen",
+            "6 min."
+        ],
+        "Pharmacy": [
+            "TopPharm",
+            "6 min."
+        ],
+        "Supermarket": [
+            "ALDI Suisse",
+            "< 1 min."
+        ],
+        "Public Transport": [
+            "Renggerstrasse",
+            "3 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4002780699": {
+        "Pharmacy": [
+            "Dropa Hottingen",
+            "3 min."
+        ],
+        "Supermarket": [
+            "Spar",
+            "5 min."
+        ],
+        "School": [
+            "Kantonsschule Hottingen",
+            "3 min."
+        ],
+        "Public Transport": [
+            "Hottingerplatz",
+            "2 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4003011863": {
+        "Supermarket": [
+            "Denner",
+            "8 min."
+        ],
+        "School": [
+            "Schule Langmatt",
+            "7 min."
+        ],
+        "Pharmacy": [
+            "TopPharm Apotheke Witikon",
+            "7 min."
+        ],
+        "Public Transport": [
+            "Stodolastrasse",
+            "3 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4003010339": {
+        "Pharmacy": [
+            "TopPharm",
+            "6 min."
+        ],
+        "School": [
+            "Schule RebhÃ¼gel",
+            "7 min."
+        ],
+        "Supermarket": [
+            "Coop",
+            "5 min."
+        ],
+        "Public Transport": [
+            "ZÃ¼rich Binz",
+            "3 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4003006311": {
+        "Pharmacy": [
+            "B-YOUnique",
+            "2 min."
+        ],
+        "Supermarket": [
+            "Coop",
+            "4 min."
+        ],
+        "School": [
+            "Schule Riesbach (Seefeld)",
+            "4 min."
+        ],
+        "Public Transport": [
+            "FrÃ¶hlichstrasse",
             "4 min."
         ]
     },
@@ -247,7 +698,7 @@
             "6 min."
         ],
         "Public Transport": [
-            "H\u00c3\u00bcgelstrasse",
+            "HÃ¼gelstrasse",
             "2 min."
         ]
     },
@@ -261,11 +712,29 @@
             "12 min."
         ],
         "Supermarket": [
-            "VOI Migros-Partner Z\u00c3\u00bcrich - Witikon",
+            "VOI Migros-Partner ZÃ¼rich - Witikon",
             "8 min."
         ],
         "Public Transport": [
             "Zweiackerstrasse",
+            "2 min."
+        ]
+    },
+    "https://www.immoscout24.ch/rent/4002923967": {
+        "Supermarket": [
+            "Coop",
+            "3 min."
+        ],
+        "Pharmacy": [
+            "Pill Apotheke FrÃ¶hlichstrasse",
+            "2 min."
+        ],
+        "School": [
+            "Schule MÃ¼nchhalde",
+            "3 min."
+        ],
+        "Public Transport": [
+            "FrÃ¶hlichstrasse",
             "2 min."
         ]
     },
@@ -276,7 +745,7 @@
             "4 min."
         ],
         "School": [
-            "Jugendmusikschule Z\u00c3\u00bcrich",
+            "Jugendmusikschule ZÃ¼rich",
             "4 min."
         ],
         "Supermarket": [
@@ -307,5 +776,9 @@
             "3 min."
         ]
     },
-    "https://www.immoscout24.ch/rent/4002865248": {}
+    "https://www.immoscout24.ch/rent/4002865248": {},
+    "https://www.immoscout24.ch/rent/4002960945": {},
+    "https://www.immoscout24.ch/rent/4002867203": {},
+    "https://www.immoscout24.ch/rent/4003012842": {},
+    "https://www.immoscout24.ch/rent/4002969308": {}
 }
