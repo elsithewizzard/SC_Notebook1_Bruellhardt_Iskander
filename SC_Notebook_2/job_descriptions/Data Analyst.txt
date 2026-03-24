@@ -1,0 +1,56 @@
+This is a comprehensive job description template for a **Data Analyst**. It is designed to be versatile, but you can tailor the specific software (e.g., swapping Tableau for Power BI) or industry requirements to fit your company’s needs.
+
+***
+
+# Job Title: Data Analyst
+**Location:** [City, State / Remote / Hybrid]  
+**Department:** [e.g., Data & Analytics / Marketing / Operations]  
+**Reports to:** [e.g., Analytics Manager / Head of Data]
+
+## Job Summary
+We are looking for a detail-oriented and curious **Data Analyst** to join our growing team. In this role, you will be responsible for collecting, processing, and performing statistical analyses on large datasets. Your primary goal will be to derive actionable insights that help our business make smarter, data-driven decisions. 
+
+The ideal candidate has a knack for seeing patterns within numbers and can translate complex technical findings into clear, concise stories for non-technical stakeholders.
+
+## Key Responsibilities
+*   **Data Collection & Management:** Extract data from primary and secondary sources (SQL databases, APIs, CRM systems) and maintain organized data environments.
+*   **Data Cleaning:** Filter and "clean" data by reviewing reports and performance indicators to locate and correct code problems or inconsistencies.
+*   **Analysis & Reporting:** Use statistical tools to interpret data sets, paying particular attention to trends and patterns that could provide value to the business.
+*   **Visualization:** Design and develop automated dashboards and reports using tools like Tableau, Power BI, or Looker to track Key Performance Indicators (KPIs).
+*   **Strategic Collaboration:** Work closely with department heads (Marketing, Finance, Product) to understand their data needs and provide analytical support for specific projects.
+*   **Process Improvement:** Identify and recommend new ways to streamline data collection processes and improve data quality/integrity.
+
+## Required Skills & Qualifications
+*   **Education:** Bachelor’s degree in Mathematics, Statistics, Computer Science, Economics, or a related field.
+*   **Technical Expertise:**
+    *   Strong proficiency in **SQL** (writing complex queries, joins, and scripts).
+    *   Experience with data visualization tools (**Tableau, Power BI, or Google Data Studio**).
+    *   High proficiency in **Microsoft Excel** (Pivot tables, VLOOKUPs, VBA/Macros).
+    *   Basic to intermediate knowledge of programming languages for data analysis (**Python or R**).
+*   **Analytical Thinking:** Ability to analyze large datasets and apply statistical techniques (regression, correlation, hypothesis testing).
+*   **Communication:** Excellent verbal and written communication skills, with the ability to present complex information to stakeholders at all levels.
+*   **Attention to Detail:** A high degree of accuracy and a commitment to data integrity.
+
+## Preferred Qualifications
+*   1–3 years of experience in a data analyst or business analyst role.
+*   Experience with cloud data warehouses (Snowflake, BigQuery, or AWS Redshift).
+*   Knowledge of ETL (Extract, Transform, Load) frameworks.
+*   Familiarity with machine learning concepts or predictive modeling.
+
+## What We Offer
+*   [Competitive salary and bonus structure]
+*   [Health, dental, and vision insurance]
+*   [401(k) matching and financial planning]
+*   [Flexible work hours and remote work options]
+*   [Professional development budget for certifications or conferences]
+
+## About [Company Name]
+[Insert a brief 2–3 sentence description of your company, its mission, and its culture. Mention why data is important to your organization’s growth.]
+
+***
+
+### How to customize this for your specific needs:
+*   **For Marketing Analysts:** Focus more on Google Analytics, SEO tools, and A/B testing.
+*   **For Financial Analysts:** Emphasize P&L experience, forecasting, and advanced Excel modeling.
+*   **For Junior Roles:** Focus on the "willingness to learn" and foundational SQL/Excel skills.
+*   **For Senior Roles:** Add responsibilities like "mentoring junior staff" and "architecting data strategy."

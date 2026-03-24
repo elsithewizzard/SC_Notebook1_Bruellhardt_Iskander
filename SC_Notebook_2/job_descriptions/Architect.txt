@@ -1,0 +1,59 @@
+This is a comprehensive job description for a **Project Architect**. You can tailor the specific software requirements and years of experience based on whether you are looking for a Junior, Mid-Level, or Senior Architect.
+
+---
+
+# Job Title: Architect / Project Architect
+
+**Location:** [City, State / Remote / Hybrid]
+**Job Type:** [Full-Time / Contract]
+**Experience Level:** [e.g., 5–8 years]
+
+### **Job Summary**
+We are seeking a creative, detail-oriented, and highly motivated Architect to join our design team. In this role, you will be responsible for leading projects from the initial concept phase through construction completion. You will transform client visions into functional, aesthetically pleasing, and sustainable structures while ensuring all technical specifications and building codes are met. 
+
+The ideal candidate possesses a strong sense of design, excellent technical skills in BIM/CAD software, and the ability to manage multidisciplinary teams to deliver high-quality architectural solutions.
+
+### **Key Responsibilities**
+*   **Design Development:** Create innovative conceptual designs, site plans, and 3D renderings for [Commercial/Residential/Industrial] projects.
+*   **Technical Documentation:** Produce comprehensive sets of construction documents (CDs), including floor plans, elevations, sections, and detailed drawings.
+*   **Project Management:** Oversee project timelines, budgets, and deliverables. Ensure that projects are completed on schedule and within financial constraints.
+*   **Collaboration:** Coordinate with structural, MEP, and civil engineers, as well as landscape architects and interior designers, to ensure seamless integration of all building systems.
+*   **Client Relations:** Lead client meetings to present design proposals, gather feedback, and provide project updates.
+*   **Code Compliance:** Ensure all designs comply with local zoning laws, building codes (IBC), ADA requirements, and environmental regulations.
+*   **Construction Administration:** Review submittals, respond to RFIs (Requests for Information), conduct site visits, and perform inspections to ensure construction aligns with the design intent.
+*   **Sustainability:** Integrate sustainable design practices and energy-efficient materials into projects where possible (LEED/Well standards).
+
+### **Required Skills & Qualifications**
+*   **Education:** Bachelor’s or Master’s degree in Architecture from an accredited institution.
+*   **Licensure:** Licensed Architect (NCARB certification preferred).
+*   **Software Proficiency:** Expert-level knowledge of **Revit** (BIM) is essential. Proficiency in AutoCAD, Rhino, SketchUp, and Adobe Creative Suite (Photoshop, InDesign).
+*   **Technical Knowledge:** Deep understanding of building materials, construction methods, and architectural detailing.
+*   **Communication:** Exceptional verbal, written, and graphic communication skills.
+*   **Problem Solving:** Ability to identify design or structural challenges and develop creative, cost-effective solutions.
+
+### **Preferred Qualifications**
+*   LEED AP or WELL AP accreditation.
+*   Experience with rendering software such as Enscape, V-Ray, or Lumion.
+*   Strong portfolio showcasing a range of project types and involvement in various project phases.
+*   Experience in [specific niche, e.g., healthcare, high-end residential, or urban planning].
+
+### **Work Environment & Physical Demands**
+*   This position operates in a professional office environment.
+*   Regular travel to construction sites is required, which may involve climbing ladders and navigating unfinished structures.
+
+### **Why Join Us?**
+[Insert a paragraph about your company culture, values, and mission. Mention specific perks like professional development stipends, flexible hours, or unique project opportunities.]
+
+**Benefits:**
+*   Competitive salary and performance bonuses.
+*   Health, dental, and vision insurance.
+*   401(k) matching and retirement planning.
+*   Paid Time Off (PTO) and paid holidays.
+*   Support for continuing education and licensure fees.
+
+---
+
+### **How to Apply**
+Please submit your resume, a cover letter, and a digital portfolio (PDF or link) to [Email Address/Application Link]. Applications without a portfolio will not be considered.
+
+* [Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.*
