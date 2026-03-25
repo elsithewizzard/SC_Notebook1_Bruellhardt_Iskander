@@ -1,61 +1,49 @@
-This is a comprehensive job description template for a **Journalist**. It is designed to be versatile so you can adapt it for print, digital, broadcast, or investigative roles.
+This is a comprehensive job description for a **Journalist**. It is designed to be adaptable for print, digital, or broadcast media.
 
----
+***
 
-### **Job Title: Journalist / News Reporter**
+# Job Title: Journalist / News Reporter
 
 **Location:** [City, State / Remote / Hybrid]
 **Job Type:** [Full-Time / Part-Time / Contract]
-**Reports To:** [Editor-in-Chief / News Director / Section Editor]
+**Reports to:** [Editor-in-Chief / Managing Editor]
 
----
+### Job Summary
+We are seeking a curious, tenacious, and principled Journalist to join our newsroom. The ideal candidate is a storyteller at heart with a passion for uncovering the truth and a knack for explaining complex issues to a diverse audience. You will be responsible for pitching, researching, and writing compelling stories that range from breaking news to in-depth investigative features.
 
-### **Job Summary**
-We are seeking a curious, tenacious, and detail-oriented Journalist to join our newsroom. The ideal candidate will be responsible for uncovering, researching, and writing compelling stories that inform, educate, and engage our audience. Whether covering local breaking news, investigative pieces, or human interest stories, you will be expected to deliver accurate, ethical, and high-quality content across multiple platforms under tight deadlines.
+### Key Responsibilities
+*   **Story Sourcing:** Proactively identify, pitch, and pursue original story ideas that align with our audience’s interests and the organization’s editorial mission.
+*   **Reporting & Research:** Conduct thorough research, verify facts, and interview key sources (including officials, experts, and community members) to ensure accuracy and depth.
+*   **Writing & Content Creation:** Write clear, engaging, and unbiased articles, scripts, or blog posts under tight deadlines.
+*   **Multimedia Integration:** Collaborate with photographers and videographers to enhance stories; capture basic photos or video when necessary.
+*   **Social Media & Engagement:** Utilize social media platforms to promote published work, engage with readers, and monitor emerging trends or news tips.
+*   **Networking:** Build and maintain a reliable network of sources and contacts within specific beats (e.g., local government, tech, sports, or crime).
+*   **Fact-Checking & Ethics:** Adhere strictly to journalistic ethics, legal guidelines (libel/defamation laws), and the organization's style guide (e.g., AP Style).
 
-### **Key Responsibilities**
-*   **Story Sourcing:** Identify and pitch original story ideas that resonate with our target audience. Maintain a robust network of sources to stay ahead of breaking news.
-*   **Research & Reporting:** Conduct deep-dive research, analyze public records, and perform interviews with key stakeholders, experts, and witnesses.
-*   **Content Creation:** Write clear, concise, and engaging articles or scripts. Ensure all content adheres to the publication’s style guide (e.g., AP Style) and tone.
-*   **Fact-Checking:** Verify all facts, quotes, and data points to ensure absolute accuracy and maintain the organization’s credibility.
-*   **Multimedia Integration:** Collaborate with photographers, videographers, and graphic designers to enhance storytelling. (Basic photography or video editing skills are a plus).
-*   **Digital Optimization:** Utilize SEO best practices to increase story reach and engage with the audience via social media platforms.
-*   **Coverage:** Attend press conferences, community events, and trials to provide live updates or follow-up reports.
-*   **Ethics:** Uphold the highest standards of journalistic integrity, objectivity, and fairness.
-
-### **Required Skills & Qualifications**
+### Required Skills and Qualifications
 *   **Education:** Bachelor’s degree in Journalism, Communications, English, or a related field.
 *   **Experience:** [X] years of experience in a newsroom or professional writing environment.
-*   **Portfolio:** A strong portfolio of published clips or a "reel" showcasing versatile reporting styles.
-*   **Writing Excellence:** Exceptional command of grammar, narrative structure, and the ability to simplify complex information.
-*   **Technical Proficiency:** Familiarity with Content Management Systems (CMS) like WordPress, and social media platforms (X/Twitter, Instagram, LinkedIn).
-*   **Interpersonal Skills:** The ability to build rapport quickly with people from diverse backgrounds.
-*   **Time Management:** Proven ability to manage multiple assignments simultaneously and meet strict daily deadlines.
+*   **Portfolio:** A strong portfolio of published clips demonstrating versatility and high-quality reporting.
+*   **Writing Excellence:** Exceptional command of grammar, tone, and storytelling techniques.
+*   **Technical Proficiency:** Familiarity with Content Management Systems (CMS) like WordPress, SEO best practices, and social media analytics.
+*   **Interpersonal Skills:** Strong interviewing skills and the ability to build rapport with diverse groups of people.
 
-### **Preferred Qualifications**
+### Preferred Qualifications
 *   Experience with data journalism or investigative reporting.
-*   Proficiency in a second language (e.g., Spanish).
-*   Knowledge of SEO tools (e.g., Google Trends, Semrush) and analytics.
-*   Experience with Adobe Creative Suite (Premiere, Photoshop).
+*   Proficiency in a second language (e.g., Spanish, Mandarin).
+*   Basic skills in photo/video editing software (Adobe Creative Suite, etc.).
+*   Knowledge of a specific niche or "beat."
 
-### **Work Environment & Physical Demands**
-*   Willingness to work irregular hours, including evenings or weekends, if news breaks.
-*   Ability to travel locally or regionally for assignments.
-*   Comfort working in high-pressure environments.
+### Key Competencies
+*   **Adaptability:** Ability to pivot quickly when news breaks or stories change.
+*   **Integrity:** Unwavering commitment to objectivity and truth-telling.
+*   **Resilience:** Ability to handle rejection of pitches and work effectively under high-pressure deadlines.
+*   **Critical Thinking:** The capacity to look beyond the surface of a press release or statement to find the real story.
 
----
+### Why Work With Us?
+[Insert Company Specifics: e.g., "We offer a collaborative environment, a competitive benefits package including health/dental, 401k matching, and the opportunity to work on stories that make a real-world impact."]
 
-### **How to Apply**
-Interested candidates should submit the following to [Email Address/Application Link]:
-1.  **Resume**
-2.  **Cover Letter** explaining your reporting philosophy.
-3.  **3–5 Published Links/Clips** (Portfolio).
+***
 
----
-
-### **Pro-Tips for Customizing This Template:**
-
-*   **For Investigative Journalism:** Emphasize skills in FOIA (Freedom of Information Act) requests, data analysis, and long-form storytelling.
-*   **For Digital/Viral News:** Emphasize speed, SEO, and "click-worthy" (but ethical) headline writing.
-*   **For Broadcast:** Change "writing articles" to "producing segments/scripts" and add requirements for on-camera presence or voice-over work.
-*   **For Niche/Trade Journalism:** Mention the specific industry (e.g., Healthcare, Tech, Finance) and the need for specialized subject matter expertise.
+### How to Apply
+Please submit your resume, a brief cover letter, and 3–5 writing samples or a link to your digital portfolio to **[Email Address/Application Portal Link]**.
