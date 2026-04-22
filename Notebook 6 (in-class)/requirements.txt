@@ -1,0 +1,7 @@
+# Social Computing Notebook 6 - Requirements
+notebook
+pandas
+numpy
+matplotlib
+plotly
+seaborn
