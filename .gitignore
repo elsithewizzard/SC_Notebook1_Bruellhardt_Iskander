@@ -15,3 +15,6 @@ __pycache__/
 chromedriver
 chromedriver-mac-arm64/
 *.zip
+
+# Dataset
+aclImdb/
