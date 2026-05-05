@@ -11,5 +11,6 @@ plotly
 scikit-learn
 # Social Computing Notebook 5 - Requirements
 pycountry
+nltk
 # Social Computing Notebook 6 - Requirements
 seaborn
