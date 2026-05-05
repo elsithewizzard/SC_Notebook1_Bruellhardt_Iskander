@@ -15,4 +15,4 @@ nltk
 # Social Computing Notebook 6 - Requirements
 seaborn
 google-genai
-scikit-learn
+sklearn.metrics
